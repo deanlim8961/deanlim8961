@@ -1,6 +1,30 @@
-### Hi there 👋
+### 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&duration=6000&color=1AC2F7&background=A822FF00&width=600&lines=Hi+~+I'm+LimJungWon%2C+Thank+you+for+visiting!)](https://git.io/typing-svg)
+<br><br>
+
+
+Full stack developer :) <br>
+PHP(Laravel, Codeigniter) <br> 
+Javascript (React, Next.js, JQuery)
+
+I'm always studying
+<br><br>
+
+
+💬 Show Languages &  🤔 Skills 
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deanlim8961&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+
+<br>
 
 <!--
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deanlim8961&show_icons=true&theme=radical)
+<br>
+
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+
 **deanlim8961/deanlim8961** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
