@@ -1,17 +1,18 @@
 ### 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&duration=6000&color=1AC2F7&background=A822FF00&width=600&lines=Hi+~+I'm+LimJungWon%2C+Thank+you+for+visiting!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&duration=6000&color=248CF7&background=A822FF00&width=600&lines=Thank+you+for+visiting+~)](https://git.io/typing-svg)
 <br><br>
 
+🙋🏻‍♂️ My English name is dean and my Korean name is Lim Jung-won. <br>
+- Full stack developer :) <br>
+- PHP(Laravel, Codeigniter) <br
+- Javascript (React, Next.js, JQuery)
 
-Full stack developer :) <br>
-PHP(Laravel, Codeigniter) <br> 
-Javascript (React, Next.js, JQuery)
 
 I'm always studying
 <br><br>
 
 
-💬 Show Languages &  🤔 Skills 
+👨🏻‍💻 Show Languages & Skills 
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deanlim8961&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
